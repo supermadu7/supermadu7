@@ -51,9 +51,16 @@ Experienced PHP Developer with over six years of expertise in developing dynamic
 
 ## 💼 Work Experience
 
-### The Range, Plymouth, UK (Remote) - Software Developer (Dec 2023 - Present)
+### The Range, Plymouth, UK (Remote) - Software Developer (August 2025 - Present)
 
-- Led the reintegration of Barclays' payment service using SOAP API.
+- Leading a talented team to improve performance, scalability, and user experience across digital platforms.
+- Mentoring and supporting developers to foster collaboration and technical excellence.
+- Overseeing key eCommerce features, including checkout flows, payment integrations, and delivery options.
+- Driving process improvements and aligning technical initiatives with business objectives.
+
+### The Range, Plymouth, UK (Remote) - Software Developer (Dec 2023 - August 2025)
+
+- Led the reintegration of a major payment gateway using SOAP API.
 - Integrated Stripe, ClearPay, Klarna, and Amazon Pay via REST APIs.
 - Contributed to Symfony and ReactJS application development.
 - Actively participated in team meetings for issue resolution and feature development.
