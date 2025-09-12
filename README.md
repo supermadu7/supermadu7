@@ -51,7 +51,7 @@ Experienced PHP Developer with over six years of expertise in developing dynamic
 
 ## 💼 Work Experience
 
-### The Range, Plymouth, UK (Remote) - Software Developer (August 2025 - Present)
+### The Range, Plymouth, UK (Remote) - Lead Developer (August 2025 - Present)
 
 - Leading a talented team to improve performance, scalability, and user experience across digital platforms.
 - Mentoring and supporting developers to foster collaboration and technical excellence.
