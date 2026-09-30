@@ -10,7 +10,7 @@
 
 ## 👋 Welcome
 
-Experienced PHP Developer with over six years of expertise in developing dynamic and scalable web applications and APIs. Proficient in building and maintaining reliable database structures, with a deep understanding of PHP and related technologies such as Laravel, Symfony, HTML, CSS, MySQL, and JavaScript.
+Experienced PHP Developer with over 10 years of expertise in developing dynamic and scalable web applications and APIs. Proficient in building and maintaining reliable database structures, with a deep understanding of PHP and related technologies such as Laravel, Symfony, HTML, CSS, MySQL, and JavaScript.
 
 # 💻 Tech Stack:
 
